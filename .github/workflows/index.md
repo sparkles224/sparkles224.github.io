@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I'm Kevin Monjarezz
 
-I'm an engineer specializing in [your field — e.g., mechanical design, embedded systems, structural analysis]. Welcome to my portfolio!
+I'm specializing in Mechanical Engineering. Welcome to my portfolio!
 
 ## 🛠️ Projects
 
@@ -29,6 +29,6 @@ Created a MATLAB tool to simulate and optimize HVAC system efficiency.
 
 ## 📫 Contact
 
-- 📧 Email: your.email@example.com  
+- 📧 Email:   
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
